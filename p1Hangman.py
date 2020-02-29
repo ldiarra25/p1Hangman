@@ -1,5 +1,5 @@
 #Objective: This program will allow the user to play Hangman against the computer using a list of words from a text file.’
-
+import random
 
 keepPlaying = True
 
